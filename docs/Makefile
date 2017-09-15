@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
 SPHINXPROJ    = wiki
 SOURCEDIR     = source
-BUILDDIR      = ../../Wiki-docs
+BUILDDIR      = ../../Wiki-docs/
 PDFBUILDDIR   = /tmp
 PDF           = ../manual.pdf
 
