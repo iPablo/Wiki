@@ -10,7 +10,7 @@ Welcome to wiki's documentation!
    :maxdepth: 2
 
    includeme
-
+   git
 
 Indices and tables
 ==================
